@@ -1,7 +1,7 @@
 # My Notes App
 A clean, intuitive note-taking application built with React that allows you to create, manage, and organize your thoughts with a beautiful, minimalist interface.
 
-![My Notes App](Screenshot (648).png)
+![My Notes App](https://raw.githubusercontent.com/sukadha/Note_Book---tailwindcss/main/Screenshot%20(648).png)
 
 ## Features
 - 📝 **Easy Note Creation**: Quick and simple note creation with title and content fields
